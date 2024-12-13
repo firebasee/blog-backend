@@ -1,0 +1,72 @@
+## Windows
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## .NET Core
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core Debug
+.vs2019/
+
+# User-specific files
+.vs
+.vscode
+.idea
+
+# User-specific files for Visual Studio Code
+.history
+
+# User-specific files for JetBrains Rider
+.idea/
+
+## Visual Studio for Mac
+.vscode/
+
+# User-specific files for Rider
+.idea/
+
+## .NET build output
+bin/
+obj/
+
+## VS for Mac
+.vscode/
+.idea/
+
+# Local history for Rider
+.idea/.idea*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Aa]ssemblyInfo.cs
+
+# Rider Settings Folder
+.idea
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Tye (for microservices)
+.tye/
+
+## JetBrains Rider
+.idea/
+
+# .NET global tool install location
+.global/
+
+# Docker-specific files
+docker-compose.override.yml
